@@ -1,5 +1,8 @@
 # GAN_Project - Create Anime Character.
 
+View with nbviewer:
+https://nbviewer.jupyter.org/github/surajiyer/GAN_Project/blob/master/Chapter2_Create_Own_Anime_Character.ipynb
+
 Run with Google Colab here:
 https://colab.research.google.com/drive/1Mxbfn0BUW4BlgEPc-minaE_M0_PaYIIX
 
